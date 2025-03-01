@@ -1,0 +1,2 @@
+lints:
+  - package: custom_screenutil_lint # カスタムLintルールが含まれるパッケージ
